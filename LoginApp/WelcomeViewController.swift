@@ -12,7 +12,7 @@ final class WelcomeViewController: UIViewController {
     @IBOutlet var welcomeLabel: UILabel!
     
     var user = ""
-    
+
     private let primaryColor = UIColor(
         red: 210/255,
         green: 109/255,
